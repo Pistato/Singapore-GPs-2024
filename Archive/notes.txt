@@ -1,0 +1,20 @@
+Credits:
+
+https://support.google.com/maps/thread/21761111/how-can-i-download-a-csv-locations-file-from-a-map-that-i-found-online?hl=en
+Hi.
+ 
+You can try the same search in Google Earth Pro then export the results as a KML file.
+Here is a youtube tutorial to export the search results from Google Earth Pro.
+https://www.youtube.com/watch?v=wySo6_RryDU
+ 
+Next you can convert the KML file to a CSV file.
+http://www.convertcsv.com/kml-to-csv.htm
+
+https://www.moh.gov.sg/resources-statistics/singapore-health-facts/health-facilities
+
+
+
+Primary care is the foundation of our healthcare system. As the first line of care in the community, our primary care professionals are often the first point of contact with patients. They provide holistic and personalised care for patients of different age groups. They treat acute conditions such as upper respiratory tract infections, manage chronic illnesses such as diabetes, and keep the population healthy through preventive measures such as targeted health screening. They also help to coordinate patients' care with other providers and help patients who require more specialised medical attention to navigate the healthcare system.
+
+In Singapore, primary care is provided through an island-wide network of outpatient polyclinics and clinics run by private general practitioners (GPs). There are currently 23 polyclinics and about 1,800 GP clinics.
+https://www.moh.gov.sg/home/our-healthcare-system/healthcare-services-and-facilities/primary-healthcare-services
